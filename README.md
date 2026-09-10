@@ -66,7 +66,7 @@ elmo-hikes/
 
 
 ## Contributors
-- **REMOVE ALL** HODA88
+- **HOPE IT WORKS** HODA88
 
 
 ## Acknowledgments
