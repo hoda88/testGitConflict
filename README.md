@@ -66,8 +66,7 @@ elmo-hikes/
 
 
 ## Contributors
-- **Hoda Rashedi** - Test for Hoda Rashedi
-- **hoda88** - Test Hoda88
+- **Hoda Rashedi** - This branch for Hoda Rashedi
 
 
 ## Acknowledgments
