@@ -66,8 +66,7 @@ elmo-hikes/
 
 
 ## Contributors
-- **Hoda Rashedi** - Test for Hoda Rashedi
-- **hoda88** - In the branch Test
+- Khasteh Shodam :D
 
 
 ## Acknowledgments
