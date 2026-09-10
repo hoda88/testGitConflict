@@ -165,6 +165,7 @@ elmo-hikes/
 
 
 ## Contributors
+- **cOMP1800** - Hoda LAst changes
 - **HOPE IT WORKS** HODA88
 
 
