@@ -66,8 +66,7 @@ elmo-hikes/
 
 
 ## Contributors
-- **Hoda Rashedi** - This branch for Hoda Rashedi
-- **hoda88** - In the branch Test
+- **cOMP1800** - Hoda LAst changes
 
 
 ## Acknowledgments
